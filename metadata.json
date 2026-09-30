@@ -1,0 +1,6 @@
+{
+  "name": "3D ULPIN & Vertical Property Mapping System",
+  "description": "Smart India Hackathon SIH26011: 3D ULPIN / Bhu-Aadhaar generation and vertical property mapping engine with AI floorplan segmentation, volumetric extrusion, deterministic 14-digit vertical indexing, and 3D visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
